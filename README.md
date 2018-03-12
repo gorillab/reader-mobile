@@ -1,1 +1,2 @@
-Reader with mobile version.
+# reader-mobile
+mobile app for reader
